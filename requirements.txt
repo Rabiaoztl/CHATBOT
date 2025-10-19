@@ -18,7 +18,7 @@ tqdm
 
 # === Web Arayüzü (Flask için) ===
 flask>=2.3.3
-flask-ngrok==0.2.25   
+pyngrok>=7.0.0
 
 # === Deploy (opsiyonel, Render / HuggingFace Space için) ===
 gunicorn
