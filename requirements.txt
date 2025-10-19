@@ -16,8 +16,9 @@ huggingface-hub>=0.25.0
 python-dotenv==1.0.1
 tqdm
 
-# === Web Arayüzü ===
-streamlit>=1.39.0
+# === Web Arayüzü (Flask için) ===
+flask>=2.3.3
+flask-ngrok>=0.2.2
 
 # === Deploy (opsiyonel, Render / Space için) ===
 gunicorn
