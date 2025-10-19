@@ -1,6 +1,6 @@
 # === Temel AI ve RAG Araçları ===
-langchain==0.3.11
-langchain-core==0.3.37
+langchain==1.0.0
+langchain-core==1.0.0
 langchain-google-genai==2.0.10
 google-generativeai==0.8.3
 
