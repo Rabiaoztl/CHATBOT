@@ -1,24 +1,7 @@
-# === Temel AI ve RAG Araçları ===
-langchain==1.0.0
-langchain-core==1.0.0
-langchain-google-genai==2.0.10
-google-generativeai==0.8.3
-
-# === Vektör Veritabanı (RAG için) ===
-chromadb==0.5.23
-langchain-chroma==0.2.2
-
-# === Veri Seti Yükleme (Hugging Face) ===
-datasets>=2.10.0
-huggingface-hub>=0.25.0
-
-# === Yardımcı Araçlar ===
-python-dotenv==1.0.1
-tqdm
-
-# === Web Arayüzü (Flask için) ===
-flask>=2.3.3
-pyngrok>=7.0.0
-
-# === Deploy (opsiyonel, Render / HuggingFace Space için) ===
-gunicorn
+python-dotenv>=1.0.0
+flask>=3.0.0
+pyngrok>=0.4.0
+PyPDF2>=3.0.0
+datasets>=2.14.0
+langchain-google-genai>=2.0.10
+numpy>=1.25.0
